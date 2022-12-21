@@ -1,0 +1,22 @@
+/* Scaling images */
+
+.container {
+  width: 50%;
+  height: 200px;
+  overflow: hidden;
+}
+ 
+.container img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Scaling background images */
+
+body {
+  background-image: url('#');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
