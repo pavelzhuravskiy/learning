@@ -7,3 +7,5 @@ const myAdverb = "quickly";
 const wordBlanks = "There was a " + myAdjective + " " + myNoun + " " + "that " + myVerb + " " + myAdverb + " " + "after me!" ;
 console.log(wordBlanks) // Change this line
 // Only change code above this line
+
+//038

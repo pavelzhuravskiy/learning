@@ -4,3 +4,5 @@ const lastName = "Lovelace";
 
 // Only change code below this line
 lastNameLength = lastName.length;
+
+//032
