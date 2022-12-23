@@ -6,3 +6,5 @@ function checkObj(obj, checkProp) {
   return "Not Found";
   // Only change code above this line
 }
+
+// Points commit comment

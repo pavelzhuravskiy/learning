@@ -9,3 +9,5 @@ const myDog = {
 
 // Only change code below this line
 delete myDog.tails;
+
+// Points commit comment

@@ -7,3 +7,5 @@ function rangeOfNumbers(startNum, endNum) {
     return rangeArray
   }
 };
+
+// Points commit comment

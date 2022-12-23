@@ -6,3 +6,5 @@ const myDog = {
   friends: ["Human", "Grass"]
   // Only change code above this line
 };
+
+// Points commit comment

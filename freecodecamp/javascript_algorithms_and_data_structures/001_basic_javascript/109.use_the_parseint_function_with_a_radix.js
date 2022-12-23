@@ -3,3 +3,5 @@ function convertToInteger(str) {
 }
 
 convertToInteger("10011");
+
+// Points commit comment

@@ -39,3 +39,5 @@ function lookUpProfile(name, prop) {
   return 'No such contact';
   // Only change code above this line
 }
+
+// Points commit comment

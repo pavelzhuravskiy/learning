@@ -20,3 +20,5 @@ function phoneticLookup(val) {
 }
 
 phoneticLookup("charlie");
+
+// Points commit comment

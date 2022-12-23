@@ -12,3 +12,5 @@ function abTest(a, b) {
 }
 
 abTest(2,2);
+
+// Points commit comment

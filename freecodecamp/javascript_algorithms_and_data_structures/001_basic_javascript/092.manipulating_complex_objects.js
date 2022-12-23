@@ -22,3 +22,5 @@ const myMusic = [
     "platinum": true
   }
 ];
+
+// Points commit comment

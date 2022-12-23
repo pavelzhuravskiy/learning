@@ -7,3 +7,5 @@ do {
   myArray.push(i);
   i++;
 } while (i < 5);
+
+// Points commit comment

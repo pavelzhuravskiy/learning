@@ -9,3 +9,5 @@ const myDog = {
 // Only change code below this line
 
 myDog.name = "Happy Coder";
+
+// Points commit comment

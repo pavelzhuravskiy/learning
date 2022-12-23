@@ -6,3 +6,5 @@ const myDog = {
 };
 
 myDog.bark = "woof";
+
+// Points commit comment
