@@ -7,5 +7,3 @@ function orderMyLogic(val) {
     return "Greater than or equal to 10";
   }
 }
-
-//073.

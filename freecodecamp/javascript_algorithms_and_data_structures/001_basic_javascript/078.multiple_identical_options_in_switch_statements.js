@@ -25,5 +25,3 @@ function sequentialSizes(val) {
 }
 
 sequentialSizes(1);
-
-//078.

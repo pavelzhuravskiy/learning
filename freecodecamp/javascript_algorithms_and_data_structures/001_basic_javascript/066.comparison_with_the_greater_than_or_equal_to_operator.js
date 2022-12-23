@@ -11,5 +11,3 @@ function testGreaterOrEqual(val) {
 }
 
 testGreaterOrEqual(10);
-
-//066.

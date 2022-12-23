@@ -22,5 +22,3 @@ function golfScore(par, strokes) {
 }
 
 golfScore(5, 4);
-
-//075.

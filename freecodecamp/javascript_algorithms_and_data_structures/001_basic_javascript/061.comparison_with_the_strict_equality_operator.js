@@ -7,5 +7,3 @@ function testStrict(val) {
 }
 
 testStrict(10);
-
-//061.

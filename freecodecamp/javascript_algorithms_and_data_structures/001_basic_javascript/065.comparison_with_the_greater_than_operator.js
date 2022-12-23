@@ -11,5 +11,3 @@ function testGreaterThan(val) {
 }
 
 testGreaterThan(10);
-
-//065.

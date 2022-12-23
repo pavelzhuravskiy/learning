@@ -5,5 +5,3 @@ function welcomeToBooleans() {
 
   // Only change code above this line
 }
-
-//058.

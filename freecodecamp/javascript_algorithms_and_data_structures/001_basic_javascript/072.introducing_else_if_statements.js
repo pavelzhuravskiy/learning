@@ -9,5 +9,3 @@ function testElseIf(val) {
 }
 
 testElseIf(7);
-
-//072.

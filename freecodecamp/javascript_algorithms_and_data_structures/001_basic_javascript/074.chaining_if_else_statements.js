@@ -15,5 +15,3 @@ function testSize(num) {
 }
 
 testSize(7);
-
-//074.

@@ -11,5 +11,3 @@ function testLessOrEqual(val) {
 }
 
 testLessOrEqual(10);
-
-//068.

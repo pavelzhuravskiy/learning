@@ -10,5 +10,3 @@ function testLogicalAnd(val) {
 }
 
 testLogicalAnd(10);
-
-//069.

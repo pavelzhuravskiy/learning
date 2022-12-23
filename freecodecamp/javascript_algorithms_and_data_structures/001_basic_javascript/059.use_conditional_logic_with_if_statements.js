@@ -8,5 +8,3 @@ function trueOrFalse(wasThatTrue) {
   // Only change code above this line
 
 }
-
-//059.

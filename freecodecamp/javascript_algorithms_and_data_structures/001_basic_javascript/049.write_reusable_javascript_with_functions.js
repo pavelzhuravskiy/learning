@@ -3,5 +3,3 @@ function reusableFunction() {
 };
 
 reusableFunction();
-
-//049.

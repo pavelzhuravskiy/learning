@@ -22,5 +22,3 @@ function switchOfStuff(val) {
 }
 
 switchOfStuff(1);
-
-//077.

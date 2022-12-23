@@ -9,5 +9,3 @@ function myOutfit() {
 }
 
 myOutfit();
-
-//054.

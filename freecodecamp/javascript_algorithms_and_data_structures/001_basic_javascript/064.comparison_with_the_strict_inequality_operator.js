@@ -7,5 +7,3 @@ function testStrictNotEqual(val) {
 }
 
 testStrictNotEqual(10);
-
-//064.
