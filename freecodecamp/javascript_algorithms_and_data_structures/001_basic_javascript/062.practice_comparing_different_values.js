@@ -7,3 +7,5 @@ function compareEquality(a, b) {
 }
 
 compareEquality(10, "10");
+
+//062.

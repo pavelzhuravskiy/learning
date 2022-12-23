@@ -8,4 +8,4 @@ function testEqual(val) {
 
 testEqual(10);
 
-//060
+//060.

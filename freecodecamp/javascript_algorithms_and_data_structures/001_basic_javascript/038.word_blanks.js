@@ -8,4 +8,4 @@ const wordBlanks = "There was a " + myAdjective + " " + myNoun + " " + "that " +
 console.log(wordBlanks) // Change this line
 // Only change code above this line
 
-//038
+//038.

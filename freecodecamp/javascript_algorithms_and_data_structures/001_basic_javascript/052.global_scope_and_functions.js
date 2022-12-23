@@ -19,4 +19,4 @@ function fun2() {
   console.log(output);
 }
 
-//052
+//052.

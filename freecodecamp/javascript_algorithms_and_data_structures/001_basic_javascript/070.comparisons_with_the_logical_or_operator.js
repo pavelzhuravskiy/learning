@@ -10,3 +10,5 @@ function testLogicalOr(val) {
 }
 
 testLogicalOr(15);
+
+//070.

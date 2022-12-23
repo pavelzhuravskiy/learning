@@ -9,4 +9,4 @@ myLocalScope();
 // myVar is not defined outside of myLocalScope
 console.log('outside myLocalScope', myVar);
 
-//053
+//053.
