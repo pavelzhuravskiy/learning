@@ -6,4 +6,4 @@ function checkSign(num) {
 
 checkSign(10);
 
-// Points commit comment+
+// Points commit comment

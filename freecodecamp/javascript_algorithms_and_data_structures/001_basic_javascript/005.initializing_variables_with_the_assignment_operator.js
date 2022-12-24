@@ -1,3 +1,3 @@
 var a = 9;
 
-// Points commit comment+
+// Points commit comment
