@@ -9,4 +9,4 @@ myLocalScope();
 // myVar is not defined outside of myLocalScope
 console.log('outside myLocalScope', myVar);
 
-// Points commit comment+
+// Points commit comment
