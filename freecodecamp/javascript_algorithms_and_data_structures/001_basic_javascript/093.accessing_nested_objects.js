@@ -12,4 +12,4 @@ const myStorage = {
 
 const gloveBoxContents = myStorage.car.inside["glove box"];
 
-// Points commit comment+
+// Points commit comment
