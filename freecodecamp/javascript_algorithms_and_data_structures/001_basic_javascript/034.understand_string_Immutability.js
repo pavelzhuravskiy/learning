@@ -5,4 +5,4 @@ let myStr = "Jello World";
 myStr = "Hello World"; // Change this line
 // Only change code above this line
 
-// Points commit comment+
+// Points commit comment
