@@ -7,4 +7,4 @@ a *= 5;
 b *= 3;
 c *= 10;
 
-// Points commit comment+
+// Points commit comment
