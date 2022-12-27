@@ -7,4 +7,4 @@ const myArray = [
 
 const myData = myArray[2][1];
 
-// Points commit comment+
+// Points commit comment
