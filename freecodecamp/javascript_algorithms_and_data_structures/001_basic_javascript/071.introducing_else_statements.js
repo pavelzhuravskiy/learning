@@ -14,4 +14,4 @@ function testElse(val) {
 
 testElse(4);
 
-// Points commit comment+
+// Points commit comment
