@@ -11,4 +11,4 @@ function testLogicalOr(val) {
 
 testLogicalOr(15);
 
-// Points commit comment
+// Points commit comment+
