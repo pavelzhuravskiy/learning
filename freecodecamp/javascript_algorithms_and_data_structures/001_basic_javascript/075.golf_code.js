@@ -23,4 +23,4 @@ function golfScore(par, strokes) {
 
 golfScore(5, 4);
 
-// Points commit comment+
+// Points commit comment
