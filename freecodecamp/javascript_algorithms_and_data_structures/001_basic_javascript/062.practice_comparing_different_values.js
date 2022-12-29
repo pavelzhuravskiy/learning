@@ -8,4 +8,4 @@ function compareEquality(a, b) {
 
 compareEquality(10, "10");
 
-// Points commit comment+
+// Points commit comment
