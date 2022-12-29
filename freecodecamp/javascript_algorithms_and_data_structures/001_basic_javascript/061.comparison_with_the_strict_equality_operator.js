@@ -8,4 +8,4 @@ function testStrict(val) {
 
 testStrict(10);
 
-// Points commit comment+
+// Points commit comment
