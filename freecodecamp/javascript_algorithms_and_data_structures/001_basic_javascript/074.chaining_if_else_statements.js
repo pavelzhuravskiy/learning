@@ -16,4 +16,4 @@ function testSize(num) {
 
 testSize(7);
 
-// Points commit comment+
+// Points commit comment
