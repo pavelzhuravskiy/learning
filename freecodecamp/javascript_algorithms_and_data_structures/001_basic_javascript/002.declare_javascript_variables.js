@@ -1,3 +1,3 @@
 var myName;
 
-// Points commit comment+
+// Points commit comment

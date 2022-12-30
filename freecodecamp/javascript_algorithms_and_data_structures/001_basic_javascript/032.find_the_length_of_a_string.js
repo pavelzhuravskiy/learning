@@ -5,4 +5,4 @@ const lastName = "Lovelace";
 // Only change code below this line
 lastNameLength = lastName.length;
 
-// Points commit comment+
+// Points commit comment

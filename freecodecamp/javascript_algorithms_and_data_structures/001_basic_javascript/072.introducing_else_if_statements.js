@@ -10,4 +10,4 @@ function testElseIf(val) {
 
 testElseIf(7);
 
-// Points commit comment+
+// Points commit comment
