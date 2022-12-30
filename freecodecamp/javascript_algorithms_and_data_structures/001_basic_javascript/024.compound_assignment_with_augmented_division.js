@@ -7,4 +7,4 @@ a = a /= 12;
 b = b /= 4;
 c = c /= 11;
 
-// Points commit comment+
+// Points commit comment
