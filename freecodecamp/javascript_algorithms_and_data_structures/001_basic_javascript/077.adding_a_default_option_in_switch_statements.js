@@ -23,4 +23,4 @@ function switchOfStuff(val) {
 
 switchOfStuff(1);
 
-// Points commit comment
+// Points commit comment+
