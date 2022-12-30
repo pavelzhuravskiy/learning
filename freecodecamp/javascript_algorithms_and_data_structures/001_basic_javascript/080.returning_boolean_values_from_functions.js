@@ -6,4 +6,4 @@ function isLess(a, b) {
 
 isLess(10, 15);
 
-// Points commit comment+
+// Points commit comment
