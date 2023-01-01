@@ -8,4 +8,4 @@ function sum(arr, n) {
   // Only change code above this line
 };
 
-// Points commit comment
+// Points commit comment+
