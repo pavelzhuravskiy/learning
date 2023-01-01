@@ -8,4 +8,4 @@ function testStrictNotEqual(val) {
 
 testStrictNotEqual(10);
 
-// Points commit comment
+// Points commit comment+
