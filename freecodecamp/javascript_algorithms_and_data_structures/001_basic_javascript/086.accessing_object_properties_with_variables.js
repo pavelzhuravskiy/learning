@@ -9,4 +9,4 @@ const testObj = {
 const playerNumber = 16;  // Change this line
 const player = testObj[playerNumber];   // Change this line
 
-// Points commit comment+
+// Points commit comment
