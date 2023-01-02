@@ -11,4 +11,4 @@ function testLogicalAnd(val) {
 
 testLogicalAnd(10);
 
-// Points commit comment+
+// Points commit comment
