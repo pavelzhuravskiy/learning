@@ -2,4 +2,4 @@
 const myName = "Pavel";
 const myStr = "My name is " + myName + " and I am well!";
 
-// Points commit comment
+// Points commit comment+
