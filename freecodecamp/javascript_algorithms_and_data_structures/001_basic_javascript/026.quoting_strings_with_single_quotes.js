@@ -1,3 +1,3 @@
 const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 
-// Points commit comment
+// Points commit comment+
