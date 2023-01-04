@@ -9,4 +9,4 @@ const testObj = {
 const hatValue = testObj.hat;      // Change this line
 const shirtValue = testObj.shirt;    // Change this line
 
-// Points commit comment
+// Points commit comment+

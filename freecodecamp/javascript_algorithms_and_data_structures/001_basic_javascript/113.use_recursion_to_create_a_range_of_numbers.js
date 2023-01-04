@@ -8,4 +8,4 @@ function rangeOfNumbers(startNum, endNum) {
   }
 };
 
-// Points commit comment
+// Points commit comment+
