@@ -6,4 +6,4 @@ const myList = [
   ['cookies', 14]
 ];
 
-// Points commit comment+
+// Points commit comment
