@@ -4,4 +4,4 @@ function checkEqual(a, b) {
 
 checkEqual(1, 2);
 
-// Points commit comment
+// Points commit comment+
