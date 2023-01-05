@@ -23,4 +23,4 @@ function caseInSwitch(val) {
 
 caseInSwitch(1);
 
-// Points commit comment+
+// Points commit comment
