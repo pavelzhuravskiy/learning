@@ -1,11 +1,11 @@
-let vowelsArr = ['a', 'e', 'i', 'o', 'u']
+let vowelsArr = ["a", "e", "i", "o", "u"];
 
-const getCount = str => {
-  let newArr = []
+const getCount = (str) => {
+  let newArr = [];
   for (const char of str) {
     if (vowelsArr.includes(char)) {
-      newArr.push(char)
+      newArr.push(char);
     }
   }
-  return newArr.length
-}
+  return newArr.length;
+};

@@ -4,8 +4,8 @@ function rangeOfNumbers(startNum, endNum) {
   } else {
     const rangeArray = rangeOfNumbers(startNum, endNum - 1);
     rangeArray.push(endNum);
-    return rangeArray
+    return rangeArray;
   }
-};
+}
 
 // Points commit comment+

@@ -1,9 +1,6 @@
-function confirmEnding (str, target) {
-  let sliced = str
-    .split('')
-    .slice(-target.length, str.length)
-    .join('')
-  return sliced === target
+function confirmEnding(str, target) {
+  let sliced = str.split("").slice(-target.length, str.length).join("");
+  return sliced === target;
 }
 
-console.log(confirmEnding('Congratulation', 'on'))
+console.log(confirmEnding("Congratulation", "on"));

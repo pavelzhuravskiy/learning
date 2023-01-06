@@ -1,10 +1,10 @@
-function Dog (name) {
-  this.name = name
+function Dog(name) {
+  this.name = name;
 }
 
-let beagle = new Dog('Snoopy')
+let beagle = new Dog("Snoopy");
 
-Dog.prototype.isPrototypeOf(beagle)  // yields true
+Dog.prototype.isPrototypeOf(beagle); // yields true
 
 // Fix the code below so that it evaluates to true
-Object.prototype.isPrototypeOf(Dog.prototype)
+Object.prototype.isPrototypeOf(Dog.prototype);

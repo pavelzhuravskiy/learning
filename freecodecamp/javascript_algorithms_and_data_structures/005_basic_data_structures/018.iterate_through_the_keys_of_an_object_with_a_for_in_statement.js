@@ -1,25 +1,25 @@
 const users = {
   Alan: {
-    online: false
+    online: false,
   },
   Jeff: {
-    online: true
+    online: true,
   },
   Sarah: {
-    online: false
-  }
-}
+    online: false,
+  },
+};
 
-function countOnline (usersObj) {
-  let count = 0
+function countOnline(usersObj) {
+  let count = 0;
   // Only change code below this line
   for (const user in usersObj) {
-    if (usersObj[user]['online']) {
-      count++
+    if (usersObj[user]["online"]) {
+      count++;
     }
   }
-  return count
+  return count;
   // Only change code above this line
 }
 
-console.log(countOnline(users))
+console.log(countOnline(users));

@@ -1,23 +1,23 @@
-function convertHTML (str) {
+function convertHTML(str) {
   return str
-    .split('')
-    .map(char => {
+    .split("")
+    .map((char) => {
       switch (char) {
-        case '&':
-          return '&amp;'
-        case '<':
-          return '&lt;'
-        case '>':
-          return '&gt;'
+        case "&":
+          return "&amp;";
+        case "<":
+          return "&lt;";
+        case ">":
+          return "&gt;";
         case '"':
-          return '&quot;'
-        case '\'':
-          return '&apos;'
+          return "&quot;";
+        case "'":
+          return "&apos;";
         default:
-          return char
+          return char;
       }
     })
-    .join('')
+    .join("");
 }
 
-console.log(convertHTML('Schindler\'s List'))
+console.log(convertHTML("Schindler's List"));

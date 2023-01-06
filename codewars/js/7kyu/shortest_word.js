@@ -1,8 +1,8 @@
-const findShort = s => {
-  let stringArray = s.split(' ')
-  let newArr = []
+const findShort = (s) => {
+  let stringArray = s.split(" ");
+  let newArr = [];
   for (const word of stringArray) {
-    newArr.push(word.length)
+    newArr.push(word.length);
   }
-  return Math.min(...newArr)
-}
+  return Math.min(...newArr);
+};

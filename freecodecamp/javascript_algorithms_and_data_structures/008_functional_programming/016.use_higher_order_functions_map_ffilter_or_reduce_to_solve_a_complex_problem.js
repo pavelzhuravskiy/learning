@@ -1,11 +1,11 @@
-const squareList = arr => {
+const squareList = (arr) => {
   // Only change code below this line
-  let newArr = [...arr]
+  let newArr = [...arr];
   return newArr
-    .filter(num => num >= 0 && Number.isInteger(num))
-    .map(num => Math.pow(num, 2))
+    .filter((num) => num >= 0 && Number.isInteger(num))
+    .map((num) => Math.pow(num, 2));
   // Only change code above this line
-}
+};
 
-const squaredIntegers = squareList([-3, 4.8, 5, 3, -3.2])
-console.log(squaredIntegers)
+const squaredIntegers = squareList([-3, 4.8, 5, 3, -3.2]);
+console.log(squaredIntegers);

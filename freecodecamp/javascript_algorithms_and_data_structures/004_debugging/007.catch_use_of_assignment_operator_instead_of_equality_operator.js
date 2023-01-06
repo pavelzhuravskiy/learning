@@ -1,11 +1,11 @@
-let x = 7
-let y = 9
-let result = 'to come'
+let x = 7;
+let y = 9;
+let result = "to come";
 
 if (x === y) {
-  result = 'Equal!'
+  result = "Equal!";
 } else {
-  result = 'Not equal!'
+  result = "Not equal!";
 }
 
-console.log(result)
+console.log(result);

@@ -1,3 +1,3 @@
-const reverseWords = str => {
-  return str.split('').reverse().join('').split(' ').reverse().join(' ')
-}
+const reverseWords = (str) => {
+  return str.split("").reverse().join("").split(" ").reverse().join(" ");
+};

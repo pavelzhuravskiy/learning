@@ -1,26 +1,26 @@
 let users = {
   Alan: {
     age: 27,
-    online: false
+    online: false,
   },
   Jeff: {
     age: 32,
-    online: true
+    online: true,
   },
   Sarah: {
     age: 48,
-    online: false
+    online: false,
   },
   Ryan: {
     age: 19,
-    online: true
-  }
-}
+    online: true,
+  },
+};
 
-function getArrayOfUsers (obj) {
+function getArrayOfUsers(obj) {
   // Only change code below this line
-  return Object.keys(obj)
+  return Object.keys(obj);
   // Only change code above this line
 }
 
-console.log(getArrayOfUsers(users))
+console.log(getArrayOfUsers(users));

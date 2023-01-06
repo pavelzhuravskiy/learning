@@ -1,3 +1,3 @@
-const sortByLength = array => {
-  return array.sort((a, b) => a.length - b.length)
-}
+const sortByLength = (array) => {
+  return array.sort((a, b) => a.length - b.length);
+};

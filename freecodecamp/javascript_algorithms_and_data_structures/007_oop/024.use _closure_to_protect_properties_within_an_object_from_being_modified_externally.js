@@ -1,10 +1,10 @@
-function Bird () {
-  let weight = 15
+function Bird() {
+  let weight = 15;
   this.getWeight = function () {
-    return weight
-  }
+    return weight;
+  };
 }
 
-let penguin = new Bird()
+let penguin = new Bird();
 
-console.log(penguin.getWeight())
+console.log(penguin.getWeight());

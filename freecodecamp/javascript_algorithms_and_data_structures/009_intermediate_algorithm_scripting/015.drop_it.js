@@ -1,10 +1,10 @@
-function dropElements (arr, func) {
-  let count = 0
+function dropElements(arr, func) {
+  let count = 0;
   for (const num of arr) {
     if (func(num)) {
-      break
+      break;
     }
-    count++
+    count++;
   }
-  return arr.slice(count, arr.length)
+  return arr.slice(count, arr.length);
 }

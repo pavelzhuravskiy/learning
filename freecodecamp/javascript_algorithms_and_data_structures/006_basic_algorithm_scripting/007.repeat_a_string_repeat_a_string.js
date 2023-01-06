@@ -1,14 +1,14 @@
-function repeatStringNumTimes (str, num) {
-  let stringCopy = str
+function repeatStringNumTimes(str, num) {
+  let stringCopy = str;
   if (num <= 0) {
-    return ''
+    return "";
   } else {
     while (num > 1) {
-      str += stringCopy
-      num--
+      str += stringCopy;
+      num--;
     }
   }
-  return str
+  return str;
 }
 
-console.log(repeatStringNumTimes('abc', 0))
+console.log(repeatStringNumTimes("abc", 0));

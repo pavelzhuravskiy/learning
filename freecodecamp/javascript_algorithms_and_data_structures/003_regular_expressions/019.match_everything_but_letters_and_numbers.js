@@ -1,3 +1,3 @@
-let quoteSample = 'The five boxing wizards jump quickly.'
-let nonAlphabetRegex = /\W/g // Change this line
-let result = quoteSample.match(nonAlphabetRegex)
+let quoteSample = "The five boxing wizards jump quickly.";
+let nonAlphabetRegex = /\W/g; // Change this line
+let result = quoteSample.match(nonAlphabetRegex);

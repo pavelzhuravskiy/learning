@@ -1,12 +1,12 @@
-function copyMachine (arr, num) {
-  let newArr = []
+function copyMachine(arr, num) {
+  let newArr = [];
   while (num >= 1) {
     // Only change code below this line
-    newArr.push([...arr])
+    newArr.push([...arr]);
     // Only change code above this line
-    num--
+    num--;
   }
-  return newArr
+  return newArr;
 }
 
-console.log(copyMachine([true, false, true], 2))
+console.log(copyMachine([true, false, true], 2));

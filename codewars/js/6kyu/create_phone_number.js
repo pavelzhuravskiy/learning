@@ -1,16 +1,16 @@
-const createPhoneNumber = numbers => {
+const createPhoneNumber = (numbers) => {
   return numbers
     .map((num, index) => {
       switch (index) {
         case 0:
-          return `(${num}`
+          return `(${num}`;
         case 2:
-          return `${num}) `
+          return `${num}) `;
         case 5:
-          return `${num}-`
+          return `${num}-`;
         default:
-          return num.toString()
+          return num.toString();
       }
     })
-    .join('')
-}
+    .join("");
+};

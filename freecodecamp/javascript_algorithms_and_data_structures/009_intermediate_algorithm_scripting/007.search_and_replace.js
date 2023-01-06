@@ -1,27 +1,27 @@
-function myReplace (str, before, after) {
-  if (before.split('')[0] === before.split('')[0].toUpperCase()) {
+function myReplace(str, before, after) {
+  if (before.split("")[0] === before.split("")[0].toUpperCase()) {
     const afterToUpper = after
-      .split('')
-      .map(char => {
+      .split("")
+      .map((char) => {
         if (char === after[0]) {
-          return char.toUpperCase()
+          return char.toUpperCase();
         } else {
-          return char
+          return char;
         }
       })
-      .join('')
-    return str.replace(before, afterToUpper)
+      .join("");
+    return str.replace(before, afterToUpper);
   } else {
     const afterToLower = after
-      .split('')
-      .map(char => {
+      .split("")
+      .map((char) => {
         if (char === after[0]) {
-          return char.toLowerCase()
+          return char.toLowerCase();
         } else {
-          return char
+          return char;
         }
       })
-      .join('')
-    return str.replace(before, afterToLower)
+      .join("");
+    return str.replace(before, afterToLower);
   }
 }

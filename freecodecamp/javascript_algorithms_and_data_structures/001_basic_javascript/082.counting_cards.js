@@ -11,10 +11,10 @@ function cc(card) {
       count++;
       break;
     case 10:
-    case 'J':
-    case 'Q':
-    case 'K':
-    case 'A':
+    case "J":
+    case "Q":
+    case "K":
+    case "A":
       count--;
       break;
   }
@@ -26,7 +26,10 @@ function cc(card) {
   // Only change code above this line
 }
 
-
-cc(2); cc(3); cc(7); cc('K'); cc('A');
+cc(2);
+cc(3);
+cc(7);
+cc("K");
+cc("A");
 
 // Points commit comment+

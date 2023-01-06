@@ -1,1 +1,1 @@
-let yourArray = ['red', 0, 'white', true, false, undefined] // Change this line
+let yourArray = ["red", 0, "white", true, false, undefined]; // Change this line

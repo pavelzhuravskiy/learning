@@ -1,3 +1,3 @@
-const filter_list = l => {
-  return l.filter(element => typeof element === 'number')
-}
+const filter_list = (l) => {
+  return l.filter((element) => typeof element === "number");
+};

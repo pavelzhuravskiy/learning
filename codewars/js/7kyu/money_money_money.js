@@ -1,8 +1,8 @@
 const calculateYears = (principal, interest, tax, desired) => {
-  let count = 0
+  let count = 0;
   while (principal < desired) {
-    count++
-    principal = principal + (principal * (interest - interest * tax))
+    count++;
+    principal = principal + principal * (interest - interest * tax);
   }
-  return count
-}
+  return count;
+};

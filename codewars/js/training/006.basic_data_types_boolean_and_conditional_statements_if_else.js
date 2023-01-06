@@ -1,3 +1,3 @@
-function trueOrFalse (val) {
-  return !val ? 'false' : 'true'
+function trueOrFalse(val) {
+  return !val ? "false" : "true";
 }

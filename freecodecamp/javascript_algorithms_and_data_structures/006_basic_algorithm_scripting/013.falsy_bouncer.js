@@ -1,3 +1,3 @@
-function bouncer (arr) {
-  return arr.filter(Boolean)
+function bouncer(arr) {
+  return arr.filter(Boolean);
 }

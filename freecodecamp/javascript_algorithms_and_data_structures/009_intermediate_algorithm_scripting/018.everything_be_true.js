@@ -1,19 +1,28 @@
-function truthCheck (collection, pre) {
-  let counter = 0
+function truthCheck(collection, pre) {
+  let counter = 0;
   for (const element of collection) {
     if (element[pre]) {
-      counter++
+      counter++;
     }
   }
-  return counter === collection.length
+  return counter === collection.length;
 }
 
-console.log(truthCheck([{
-  name: 'Quincy',
-  role: 'Founder',
-  isBot: false
-}, { name: 'Naomi', role: '', isBot: false }, {
-  name: 'Camperbot',
-  role: 'Bot',
-  isBot: true
-}], 'name'))
+console.log(
+  truthCheck(
+    [
+      {
+        name: "Quincy",
+        role: "Founder",
+        isBot: false,
+      },
+      { name: "Naomi", role: "", isBot: false },
+      {
+        name: "Camperbot",
+        role: "Bot",
+        isBot: true,
+      },
+    ],
+    "name"
+  )
+);

@@ -1,18 +1,18 @@
 // Helper function to sum numbers
-const accum = n => {
+const accum = (n) => {
   n = n
     .toString()
-    .split('')
+    .split("")
     .map(Number)
-    .reduce((prev, next) => prev + next, 0)
-  return n
-}
+    .reduce((prev, next) => prev + next, 0);
+  return n;
+};
 // Counting
-const digitalRoot = n => {
-  let count = 0
+const digitalRoot = (n) => {
+  let count = 0;
   while (count < n) {
-    count++
-    n = accum(n)
+    count++;
+    n = accum(n);
   }
-  return n
-}
+  return n;
+};

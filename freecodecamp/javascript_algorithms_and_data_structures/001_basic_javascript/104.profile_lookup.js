@@ -28,15 +28,15 @@ const contacts = [
 
 function lookUpProfile(name, prop) {
   for (let i = 0; i < contacts.length; i++) {
-    if (name === contacts[i]['firstName']) {
+    if (name === contacts[i]["firstName"]) {
       if (contacts[i].hasOwnProperty(prop)) {
         return contacts[i][prop];
       } else {
-        return 'No such property';
+        return "No such property";
       }
-    }  
+    }
   }
-  return 'No such contact';
+  return "No such contact";
   // Only change code above this line
 }
 

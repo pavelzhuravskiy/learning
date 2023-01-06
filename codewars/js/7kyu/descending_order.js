@@ -1,8 +1,8 @@
-const descendingOrder = n => {
+const descendingOrder = (n) => {
   n = n
     .toString()
-    .split('')
+    .split("")
     .sort((a, b) => b - a)
-    .join('')
-  return parseInt(n)
-}
+    .join("");
+  return parseInt(n);
+};

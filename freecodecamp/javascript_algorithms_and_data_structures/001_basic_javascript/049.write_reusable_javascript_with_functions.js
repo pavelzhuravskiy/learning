@@ -1,6 +1,6 @@
 function reusableFunction() {
-  console.log('Hi World');
-};
+  console.log("Hi World");
+}
 
 reusableFunction();
 

@@ -3,7 +3,7 @@ const myDog = {
   name: "Bobik",
   legs: 4,
   tails: 1,
-  friends: ["Human", "Grass"]
+  friends: ["Human", "Grass"],
   // Only change code above this line
 };
 
